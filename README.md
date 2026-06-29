@@ -112,9 +112,7 @@ ISRO-Exoplanet-Detection/
 ├── Final_BAH_Hackathon_Model.ipynb
 ├── README.md
 ├── requirements.txt
-├── LICENSE
 ├── .gitignore
-└── images/
 ```
 
 ---
