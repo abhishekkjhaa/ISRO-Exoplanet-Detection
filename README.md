@@ -174,7 +174,6 @@ Run all cells sequentially to reproduce the complete pipeline.
 | Afshan Momin | Team Member |
 | Karan Rathod | Team Member |
 
-> Update this table with your team's actual names and roles.
 
 ---
 
